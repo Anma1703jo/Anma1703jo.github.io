@@ -1,31 +1,20 @@
+body {
+    font-family: 'Georgia', serif;
+    max-width: 600px;
+    margin: 60px auto;
+    padding: 0;
+    color: #000000;
+    background: #b29fe9;
+    line-height: 1.6;
+}
 
 h1 {
-    color: #2c3e50;
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
-    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+    color: #320055;
 }
 
 ul {
     list-style-type: none;
     padding: 0;
-}
-
-li {
-    margin-bottom: 0.5rem;
-}
-
-a {
-    display: inline-block;
-    padding: 0.5rem 1rem;
-    background-color: #ecf0f1;
-    border: 2px solid #3498db;
-    color: #3498db;
-    text-decoration: none;
-    transition: background-color 0.3s, color 0.3s;
-}
-
-a:hover {
-    background-color: #3498db;
-    color: #fff;
 }

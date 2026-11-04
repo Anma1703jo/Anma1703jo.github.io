@@ -3,15 +3,15 @@ body {
     max-width: 600px;
     margin: 60px auto;
     padding: 0;
-    color: #000000;
-    background: #b29fe9;
+    color: #5d05b0;
+    background: #886cdb;
     line-height: 1.6;
 }
 
 h1 {
     font-size: 2.5em;
     margin-bottom: 0.5em;
-    color: #320055;
+    color: #4811ad;
 }
 
 ul {
